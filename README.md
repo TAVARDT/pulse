@@ -3,13 +3,14 @@
 <div align="center">
   <p>Elite B2B Monitoring and Alerting Tool for High-Ticket Digital Infrastructure.</p>
   <p>
-    <a href="#-english">🇺🇸 English</a> | 
-    <a href="#-português">🇧🇷 Português</a>
+    <a href="#english">🇺🇸 English</a> | 
+    <a href="#português">🇧🇷 Português</a>
   </p>
 </div>
 
 ***
 
+<a id="english"></a>
 ## 🇺🇸 English
 
 ### Overview
@@ -38,6 +39,7 @@ Looking for elite B2B infrastructure and high-ticket digital engineering?
 
 ***
 
+<a id="português"></a>
 ## 🇧🇷 Português
 
 ### Visão Geral
